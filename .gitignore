@@ -1,0 +1,73 @@
+# FMMPEG libibry
+
+*/ffmpeg
+
+# Configurations
+
+.log
+config.php
+authorization.php
+
+# Images
+Storage/Image/*.jpg
+Storage/Image/*.jpeg
+Storage/Image/*.png
+Storage/Image/*.gif
+Storage/Image/*.svg
+
+# Videos
+Storage/Video/*.mp4
+Storage/Video/*.avi
+Storage/Video/*.mkv
+Storage/Video/*.webm
+Storage/Video/*.mpg
+Storage/Video/*.wmv
+Storage/Video/*.mov
+
+# Audios
+Storage/Audio/*.mp3
+Storage/Audio/*.wav
+Storage/Audio/*.m4a
+Storage/Audio/*.aac
+Storage/Audio/*.ogg
+Storage/Audio/*.wma
+Storage/Audio/*.flac
+Storage/Audio/*.alac
+Storage/Audio/*.wma
+
+# Documents
+Storage/Document/*.pdf
+Storage/Document/*.doc
+Storage/Document/*.docx
+Storage/Document/*.odt
+Storage/Document/*.xls
+Storage/Document/*.xlsx
+Storage/Document/*.ods
+Storage/Document/*.ppt
+Storage/Document/*.pptx
+Storage/Document/*.odp
+Storage/Document/*.rtf
+Storage/Document/*.txt
+
+# Compresseds
+Storage/Compressed/*.zip
+Storage/Compressed/*.7z
+Storage/Compressed/*.rar
+Storage/Compressed/*.tar
+Storage/Compressed/*.iso
+Storage/Compressed/*.dmg
+
+# Executables
+Storage/Executable/*.apk
+Storage/Executable/*.bin
+Storage/Executable/*.bat
+Storage/Executable/*.cgi
+Storage/Executable/*.pl
+Storage/Executable/*.com
+Storage/Executable/*.exe
+Storage/Executable/*.jar
+Storage/Executable/*.msi
+Storage/Executable/*.py
+Storage/Executable/*.wsf
+Storage/Executable/*.deb
+Storage/Executable/*.rpm
